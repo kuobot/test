@@ -1,0 +1,34 @@
+
+
+body {background-image:url("girl_shadow.jpeg");
+background-size:1024px 768px;
+background-repeat:no-repeat;
+background-color: #000000}
+
+
+.header {
+  background: #000000;
+  border: none;
+  width: 1024px;
+  height: 40px;
+  border-radius: 0px;
+  position: relative
+}
+.logo {
+  color: #9c9c9c;
+  font-family:"Arial";
+  font-size: 18pt;
+  font-weight: normal;
+  font-style: normal;
+  text-align: left;
+  line-height: 1.2;
+  width: 238px;
+  margin: 13px 0 0 18px
+}
+.rectangle {
+  background: rgba(0, 0, 0, 0.61);
+  border: none;
+  width: 282px;
+  height: 768px;
+  border-radius: 0px
+}
